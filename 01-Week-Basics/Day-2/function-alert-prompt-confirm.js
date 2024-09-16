@@ -35,9 +35,9 @@
 let val;
 var a = 10; 
 
-// alert
+// ALERT
 // alert("Hello")
-// prompt
+// PROMPT
 // var c = prompt("Enter a number")
 // console.log(c)
 // confirm 
