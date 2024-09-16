@@ -60,7 +60,7 @@ Does not modify the working directory. Only downloads new commit information.
 6. Repeat steps 4 and 5 for each folder you want to commit separately.
 7. Finally, use the `git push` command to push all the commits to your GitHub repository.
 
-By following these steps, you will be able to add separate commits for each folder in your repository.
+By following these steps, you will be able to add separate commits for each folder in your repository 
 
 
 
