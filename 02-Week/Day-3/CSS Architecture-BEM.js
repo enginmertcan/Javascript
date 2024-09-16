@@ -9,6 +9,7 @@ Basic Principles:
 4-Layering:
 
 
+
 BEM (BLOCK-ELEMENT-MODIFIER) is a CSS architecture developed by Yandex.
 BEM helps you write more consistent, organized, and readable code when writing CSS.
 The main purpose is to increase the maintainability of CSS. It is used to describe the structures in HTML code and eliminate unnecessary code.
