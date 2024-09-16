@@ -14,7 +14,7 @@ Once you answer all the questions, a package.json file will be created.
 
 
 npm install <package-name>
-npm install command is used to install a package.
+npm install command is used to install a package
 npm install react react-dom //used for developing React applications.
 npm install react router-dom //used for page routing in React applications.
 npm install axios //used for making HTTP requests.
