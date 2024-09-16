@@ -10,7 +10,7 @@
 //   return (
 //     <div>
 //       <h1>{count}</h1>
-//       <button onClick={increment}>Arttır</button>
+//       <button onClick={increment}>Increment</button>
 //     </div>
 //   );
 // }
@@ -22,7 +22,7 @@
 /* <template>
   <div>
     <h1>{{ count }}</h1>
-    <button @click="increment">Arttır</button>
+    <button @click="increment">Increment</button>
   </div>
 </template>
 
@@ -43,15 +43,15 @@ export default {
 
 <style scoped>
 //</style> 
-// Template HTML benzeri kod yazılır. state yönetimi için data() kullanılır. methods içerisinde fonksiyonlar tanımlanır. @click="increment"
+// Template-like code is written. data() is used for state management. Functions are defined in methods. @click="increment"
 */
-// React, daha esnek bir yapı sunar ve HTML ile JavaScript'i birleştirir (JSX).
-//  Ancak state yönetimi ve lifecycle yönetimi için hook'lara ihtiyaç duyar.
+// React provides a more flexible structure and combines HTML with JavaScript (JSX).
+// However, it requires hooks for state management and lifecycle management.
 
 
-//Vue, daha geleneksel bir yapıda, HTML, CSS ve JavaScript'i daha ayrı tutarak daha net bir yapı sunar.
-//  Ayrıca, Vue'nun olay yönetimi ve şablon yapısı genellikle daha kısa ve sade olur.
+// Vue provides a more traditional structure, keeping HTML, CSS, and JavaScript separate, resulting in a cleaner structure.
+// Additionally, Vue's event handling and template structure are often shorter and simpler.
 
-//Vue: Küçük projelerde yüksek performans sunar ve düşük boyutuyla hızlı yükleme sürelerine katkı sağlar. 
-// Ancak çok büyük projelerde React kadar optimize olmayabilir.
-// . Ancak projeye hızlıca başlamak ve ihtiyaç duyduğunuz tüm özelliklere sahip olmak isterseniz, Vue size bu kolaylığı sağlar.
+// Vue: Offers high performance and fast loading times with its small size, especially for small projects.
+// However, it may not be as optimized as React for very large projects.
+// However, if you want to quickly start a project and have all the features you need, Vue provides this convenience.
