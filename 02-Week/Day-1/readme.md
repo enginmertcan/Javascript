@@ -19,5 +19,6 @@ HTML forms allow users to input data on a web page. You can use various form ele
 ## Semantic HTML
 Semantic HTML involves using HTML elements that convey meaning and structure to the content. By using semantic elements like `<header>`, `<nav>`, `<section>`, and `<footer>`, you can improve the accessibility and SEO of your web pages.
 
+
 ## Basics of HTML
 The basics of HTML cover essential concepts such as tags, attributes, elements, and document structure. You will learn how to create headings, paragraphs, lists, links, images, and more.
