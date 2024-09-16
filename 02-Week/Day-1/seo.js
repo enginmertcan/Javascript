@@ -1,60 +1,60 @@
 /*
 SEO: Search Engine Optimization
-Botların sitenizi daha iyi anlamasını sağlamak için yapılması gereken işlemlerdir.
+These are the actions that need to be taken to help search engines understand your website better.
 
-1. Title: Sayfanın başlığıdır. Sayfanın içeriğini özetleyen bir başlık olmalıdır.
-2. Description: Sayfanın içeriğini özetleyen bir açıklama olmalıdır.
-3. Keywords: Sayfanın anahtar kelimeleri olmalıdır.
-4. Alt başlık: Sayfanın içeriğini özetleyen bir başlık olmalıdır.
-5. URL: Sayfanın adresidir. Sayfanın içeriğini özetleyen bir adres olmalıdır.
-6. Resimler: Sayfanın içeriğini özetleyen resimler olmalıdır.
-7. Linkler: Sayfanın içeriğini özetleyen linkler olmalıdır.
-8. H1: Sayfanın içeriğini özetleyen bir başlık olmalıdır.
-9-Mobil uyumluluk: Sayfanın mobil cihazlarda düzgün bir şekilde görüntülenmesi.
-
-
-h1 ana başlık h2 ile alt başlık p kullanmak ve bunların hepsini bir <article> almak daha iyi olur.
-<nav> içinde <ul> <li> ile menü yapmak daha iyi olur.
-paragrafları <p> ile yazmak daha iyi olur.
-alt başlıkları <h3> ile yazmak daha iyi olur.
-resimlere <img> etiketi ile alt etiket eklemek daha iyi olur.
-JSON-LD: Sayfanın içeriğini özetleyen bir JSON-LD olmalıdır.veri kümesi ekleyerek google arama sonuçlarında daha iyi bir şekilde görüntülenmesini sağlar.
+1. Title: It is the title of the page. It should be a summary of the page's content.
+2. Description: It should be a summary of the page's content.
+3. Keywords: These are the main keywords of the page.
+4. Subheading: It should be a heading that summarizes the page's content.
+5. URL: It is the address of the page. It should be a descriptive address that summarizes the page's content.
+6. Images: These are the images that summarize the page's content.
+7. Links: These are the links that summarize the page's content.
+8. H1: It should be a heading that summarizes the page's content.
+9. Mobile compatibility: It is the proper display of the page on mobile devices.
 
 
- Site Dışı SEO: Sitenin dışında yapılan SEO çalışmalarıdır.
-1. Sosyal medya paylaşımları
-2. Backlink
-3. Reklam
-4. E-mail marketing
-5. İçerik pazarlama
-6. Video pazarlama
-7. Influencer marketing
+It would be better to use h1 as the main heading, h2 as subheadings, and p for paragraphs, all wrapped in an <article> tag.
+It would be better to use <nav> with <ul> and <li> for creating menus.
+It would be better to use <p> for paragraphs.
+It would be better to use <h3> for subheadings.
+It would be better to add alt tags to images using the <img> tag.
+JSON-LD: It should be a JSON-LD that summarizes the page's content. It helps to display the page better in Google search results.
 
 
- Teknik SEO: Sayfanın teknik altyapısını düzenlemek için yapılan SEO çalışmalarıdır.
-1. Site hızı
+Off-Page SEO: These are the SEO activities done outside of the website.
+1. Social media sharing
+2. Backlinks
+3. Advertising
+4. Email marketing
+5. Content marketing
+6. Video marketing
+
+
+
+Technical SEO: These are the SEO activities done to optimize the technical infrastructure of the page.
+1. Site speed
 2. HTTPS
-3. Site haritası
+3. Site map
 4. Robots.txt
 5. Google Analytics
 6. Google Search Console
 
 
 
-1-Başlık: <title> etiketi ile yapılır. Başlık etiketi sayfa içeriğiyle alaklı olmalıdır.
-Anahtar kelimeleri içermelidir. 580px genişliğinde 60 karakterden fazla olmamalıdır.
+1-Title: It is done with the <title> tag. The title tag should be relevant to the page content.
+It should include the keywords. It should not exceed 60 characters in width and 580px.
                    
 
-2-Açıklama: <meta name="description" content="Açıklama"> etiketi ile yapılır. 
-Sayfanın içeriğini özetleyen bir açıklama olmalıdır. Tıklamaya teşvik edici olmalıdır.
-160 karakterden fazla olmamalıdır. Marka adını içermelidir.Sayfada ne olduğunu açıklamalıdır. 990px geçmemelidir.
+2-Description: It is done with the <meta name="description" content="Description"> tag. 
+It should be a summary of the page's content. It should be enticing to click.
+It should not exceed 160 characters. It should include the brand name. It should describe what the page is about. It should not exceed 990px.
 
-3-Alt başlık: <h1> etiketi ile yapılır. Sayfanın içeriğini özetleyen bir başlık olmalıdır. h1 den başlar h6 ya kadar gider.
-
-
+3-Subheading: It is done with the <h1> tag. It should be a heading that summarizes the page's content. It can go from h1 to h6.
 
 
-Örnek
+
+
+Example
 <!DOCTYPE html>
 <html>
 <head>
@@ -64,22 +64,18 @@ Sayfanın içeriğini özetleyen bir açıklama olmalıdır. Tıklamaya teşvik 
 </head> 
 <body>
     <h1>SEO</h1>
-    <p>SEO, Search Engine Optimization kelimelerinin baş harflerinden oluşan bir kısaltmadır.</p>
+    <p>SEO is an abbreviation formed from the initials of the words Search Engine Optimization.</p>
 </body>
 </html>
 
 
 
-
-
-
-Accesibility: Erişilebilirlik
-Engelli kişilerin interneti daha rahat kullanabilmesi için yapılan işlemlerdir.
-1. Resimlere alt etiketi eklemek.
-2. Butonlara uygun bir şekilde link vermek.
-3. Renkleri doğru kullanmak.
-4. Sayfanın düzgün bir şekilde okunabilir olması.
-Örnek
+Accessibility: It is the actions taken to make the internet more accessible for people with disabilities.
+1. Adding alt tags to images.
+2. Providing appropriate links to buttons.
+3. Using colors correctly.
+4. Making the page easily readable.
+Example
 
 
 
