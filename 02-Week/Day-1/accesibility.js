@@ -1,36 +1,35 @@
 /*
 Accessibility:
-internet sitelerinin ve uygulamalarının tüm kullanıcılar, özellikle de engelli bireyler tarafından erişilebilir ve kullanılabilir olmasını sağlamayı hedefler. Web erişilebilirliği, çeşitli engellere sahip kişilerin interneti etkin bir şekilde kullanabilmesi için gerekli tasarım ve geliştirme standartlarını içerir.
-Engel Durumları:
-Görme engelli,Hareket engelli ,işitme engelli, konuşma engelli, yaşlılık, geçici engellilik.
+It aims to ensure that websites and applications are accessible and usable by all users, especially individuals with disabilities. Web accessibility includes the design and development standards necessary for people with various disabilities to effectively use the internet.
+Disabilities:
+Visual impairment, Mobility impairment, Hearing impairment, Speech impairment, Aging, Temporary disability.
 
-Görme : Görme kaybı , renk koruyucu  Ekran okuyucular kullanarak web sitelerini dinlerler. Alternatif metinler, başlıklar
-Hareket : Stephan Hawking sanal klavye
-Motor engelli: Tüm site özelliklerine klavye ile erişilebilmesi gerekir.
-Bilişsel engelli: Basit, anlaşılır ve tutarlı bir dil kullanımı
-
-
-Web Erişilebilirliğinin Temel İlkeleri
-1- Algılanabilirlik: Kullanıcıların içeriği algılamasını sağlamak. Görme engelli kullanıcılar için ekran okuyucu uyumluluğu, işitme engelli kullanıcılar için altyazılar.
-                                                 Ekran okuyucu destekli alternatif metinler, renk kontrastı, altyazılar.
-2- Kullanılabilirlik: Klavye navigasyonu, odak yönetimi, erişilebilir formlar.
-                                 Klavye Tab mantığı, Klavye erişilebilirliği
-3- Anlaşılabilirlik:  Basit dil kullanımı, tutarlı navigasyon.
-4- Robust: İçeriğin farklı platformlarda ve cihazlarda tutarlı bir şekilde çalışması.HTML5 ve ARIA etiketlerinin kullanımı.
-                               
+Visual: People with visual impairments listen to websites using screen readers. Alternative texts, headings.
+Mobility: Stephen Hawking virtual keyboard.
+Motor impairment: All site features should be accessible via keyboard.
+Cognitive impairment: Use of simple, understandable, and consistent language.
 
 
-HTML5: HTML5 standartlarına uygun kod yazın.
-Erişilebilirlik Denetim Araçları: Erişilebilirlik denetim araçlarını kullanarak web sitenizi kontrol edin.
+Basic Principles of Web Accessibility
+1- Perceivability: Ensuring that users can perceive the content. Screen reader compatibility for visually impaired users, captions for hearing impaired users.
+                    Alternative texts supported by screen readers, color contrast, captions.
+2- Operability: Keyboard navigation, focus management, accessible forms.
+                Keyboard Tab logic, Keyboard accessibility.
+3- Understandability: Use of simple language, consistent navigation.
+4- Robustness: Consistent functioning of content across different platforms and devices. Use of HTML5 and ARIA tags.
 
-Erişilebilirlik Standartları 
 
-WCAG (Web Content Accessibility Guidelines): W3C tarafından geliştirilen bu yönergeler, web içeriğini erişilebilir hale getirmek için belirlenen standartları ve en iyi uygulamaları içerir.(A, AA, AAA)
-WCAG, 4 temel prensibe dayanır ve çeşitli başarı kriterleri içerir.
+HTML5: Write code that complies with HTML5 standards.
+Accessibility Testing Tools: Use accessibility testing tools to check your website.
+
+Accessibility Standards
+
+WCAG (Web Content Accessibility Guidelines): These guidelines, developed by W3C, include the standards and best practices for making web content accessible. (A, AA, AAA)
+WCAG is based on 4 fundamental principles and includes various success criteria.
 
 
-Ekran Okuyucular: NVDA, JAWS gibi ekran okuyucular, görme engelli kullanıcıların web içeriğine erişim
-Klavyeye Erişim: Klavye navigasyonunu test etmek ve her etkileşimli öğenin klavye ile erişilebilir olmalı
+Screen Readers: Screen readers like NVDA, JAWS enable visually impaired users to access web content.
+Keyboard Accessibility: Test keyboard navigation and ensure that every interactive element is accessible via keyboard.
 
 
 */
