@@ -1,34 +1,27 @@
-// React ve Vue JavaScript frameworkleridir. İkisinin de amacı, web uygulamaları için UI oluşturmayı kolaylaştırmaktır. 
+// React and Vue are JavaScript frameworks. Both aim to simplify UI development for web applications.
 
-// React meta tarafından geliştirilmiştir. React bir kütüphane olarak kabul edilir ve UI oluşturmak için temel işlevselliği sağlar.
-// projeye componentler ekleyerek çalışır. React, JSX adı verilen bir dil kullanır. JSX, JavaScript ve HTML arasında bir sentaks türüdür. 
-// JSX, JavaScript kodu içerisinde HTML yazmaya olanak tanır ve böylelikle UI bileşenleri daha esnek ve güçlü hale gelir.
+// React is developed by Facebook. It is considered a library and provides the basic functionality to create UI by adding components to the project.
+// React uses a language called JSX, which is a syntax type between JavaScript and HTML.
+// JSX allows writing HTML within JavaScript code, making UI components more flexible and powerful.
 
-// State ve props kullanır. State, bir bileşenin durumunu tutar ve bileşenin durumunu değiştirmek için kullanılır. Props, bir bileşene veri iletmek için kullanılır.
-// Redux veya ContextAPI gibi state yönetim araçları kullanılabilir.
-//Routing , state yönetimi, form işlemleri, API istekleri gibi işlemler için ek kütüphaneler kullanılabilir.
-
+// React uses state and props. State holds the state of a component and is used to change the state of the component. Props are used to pass data to a component.
+// State management tools like Redux or ContextAPI can be used.
+// Additional libraries can be used for tasks such as routing, state management, form handling, and API requests.
 
 /*
-hem UI hem uygulama mantığı için kullanılır. Yani Route işlemleri, state yönetimi, form işlemleri, API istekleri gibi işlemler için ek kütüphaneler kullanmaya gerek yoktur. 
-HTML, CSS ve js daha geleneksel bir şekilde kullanılır. Vue, React ve Angular'a göre daha kolay öğrenilir ve daha hızlı geliştirme yapılmasını sağlar.
-Vue'de HTML şablonları geleneksel HTML gibi görünür ve bu da yeni başlayanlar için daha kolay anlamaya yardımcı olur.
+Vue is used for both UI and application logic. This means there is no need to use additional libraries for tasks like routing, state management, form handling, and API requests.
+HTML, CSS, and JavaScript are used in a more traditional way. Vue is easier to learn and enables faster development compared to React and Angular.
+Vue's HTML templates resemble traditional HTML, making it easier for beginners to understand.
 
-EKOSİSTEM : Vue.js, React ve Angular'a göre daha küçük bir ekosisteme sahiptir. Bu, Vue.js için daha az sayıda üçüncü taraf kütüphane ve eklenti olduğu anlamına gelir.
-Vue CLI , Vue.js uygulamaları oluşturmak için kullanılan resmi bir CLI aracıdır. Vue CLI, Vue.js uygulamaları oluşturmak için kullanılan resmi bir CLI aracıdır.
-Vue Router , Vuex 
-öğrenmesi daha basittir.
+ECOSYSTEM: Vue.js has a smaller ecosystem compared to React and Angular. This means there are fewer third-party libraries and plugins available for Vue.js.
+Vue CLI is the official CLI tool used to create Vue.js applications.
+Vue Router, Vuex
+is easier to learn.
 
-REACT VE VUE ARASINDAKİ FARKLAR
-VUe tüm özellikleri içinde barındırırken React sadece UI oluşturmak için kullanılır.
-React jsx kullanırken Vue ise html ve js dosyalarını bir arada kullanır.
-Performans : İyi ve büyük uygulamalarda react , küçük uygulamalarda ise vue daha performanslıdır.
+DIFFERENCES BETWEEN REACT AND VUE
+While Vue encompasses all features, React is used only for UI development.
+React uses JSX, while Vue combines HTML and JavaScript files.
+Performance: React performs well in large and complex applications, while Vue is more performant in small applications.
 
-React:Büyük ve karmaşık uygulamalar için daha uygundur. geniş kütüphane desteği esneklik ve özelleştirme imkanı sunar.
-Vue : Küçük ve orta ölçekli uygulamalar için daha uygundur. daha az karmaşık yapısıyla  daha hızlı geliştirme yapılmasını sağlar.
-
-
-*/
-
-
-
+React: Suitable for large and complex applications. It offers extensive library support, flexibility, and customization options.
+Vue: Suitable for small and medium-sized applications. It enables faster development with its less complex structure. */
