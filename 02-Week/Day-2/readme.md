@@ -13,6 +13,7 @@ To install packages using NPM, you can use the `npm install` command followed by
 - `npm install mongoose`
 - `npm install eslint --save-dev`
 
+
 ## PNPM
 
 PNPM is another package manager for Node.js projects. It is developed as an alternative to NPM, offering faster installation and using less disk space. To install PNPM, you can use the command `npm install -g pnpm`. Similar to NPM, you can create a `package.json` file using the `pnpm init` command.
