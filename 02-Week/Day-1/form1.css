@@ -34,7 +34,6 @@ label {
   input:invalid {
     border: 2px solid red;
   }
-
   input,
 .looks-like-input {
   border: 1px solid black;

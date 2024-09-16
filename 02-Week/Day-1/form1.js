@@ -15,7 +15,6 @@ if (radioFields && radioFields.length > 0) {
     radioField.addEventListener('click', (event) => {
       const additionalField = document.getElementById(event.target.getAttribute('aria-controls'));                         
       let isChecked = event.target.checked;
-      
       [...additionalFields].forEach((additionalField) => {
         additionalField.hidden = true;
       });
