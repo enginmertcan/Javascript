@@ -17,5 +17,11 @@ In these two weeks, we focused on the basics of programming and web development.
 9. npm pnpm
 10. CSS Architecture, what is BEM
 11. Sass, SCSS
-11. What is the difference between FE frameworks
+12. What is the difference between FE frameworks
+13. CORS, HTTPS, and Content Security Policy (CSP)
+14. Prettier, ESLint, and Linters/Formatters
+15. Testing: Vitest / Jest
+16. Authentication Strategies
+17. Typescript
+
 
