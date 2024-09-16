@@ -47,4 +47,22 @@ Does not modify the working directory. Only downloads new commit information.
 15-Git Revert Reverts a commit and adds it as a new commit.
     Unlike git reset, it does not modify the commit history, it creates a new commit.
 
+
+
+
+    To add separate commits for each folder, you can follow these steps:
+
+1. Open your terminal or command prompt.
+2. Navigate to the root directory of your project using the `cd` command.
+3. Use the `git status` command to see the current status of your repository.
+4. Use the `git add <folder>` command to stage the changes in each folder individually. Replace `<folder>` with the name of the folder you want to commit.
+5. Use the `git commit -m "Commit message"` command to create a commit for each folder. Replace `"Commit message"` with a descriptive message for each commit.
+6. Repeat steps 4 and 5 for each folder you want to commit separately.
+7. Finally, use the `git push` command to push all the commits to your GitHub repository.
+
+By following these steps, you will be able to add separate commits for each folder in your repository.
+
+
+
+
  */
