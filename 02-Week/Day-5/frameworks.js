@@ -24,4 +24,4 @@ React uses JSX, while Vue combines HTML and JavaScript files.
 Performance: React performs well in large and complex applications, while Vue is more performant in small applications.
 
 React: Suitable for large and complex applications. It offers extensive library support, flexibility, and customization options.
-Vue: Suitable for small and medium-sized applications. It enables faster development with its less complex structure. */
+Vue: Suitable for small and medium-sized applications. It enables faster development with its less complex structure */
